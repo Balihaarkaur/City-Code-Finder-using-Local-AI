@@ -6,7 +6,7 @@ A **Streamlit-based web app** that helps users find standard Indian **city codes
 - 🔍 Fuzzy matching for close spellings
 - 🤖 AI assistance using **Ollama + LLaMA3** for abbreviation and nickname interpretation
 
-This app runs **offline**, and can intelligently resolve even unclear or abbreviated city inputs like `dilli`, `mtt`, or `mum`.
+This model runs **offline**, and can intelligently resolve even unclear or abbreviated city inputs like `dilli`, `mtt`, or `mum`.
 
 ---
 
